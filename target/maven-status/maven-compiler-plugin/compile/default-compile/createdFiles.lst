@@ -1,0 +1,7 @@
+de\hdg\schematicsync\modules\webSocket.class
+de\hdg\schematicsync\commands\sync.class
+de\hdg\schematicsync\SchematicSync.class
+de\hdg\schematicsync\inventories\SchemSyncSelection.class
+de\hdg\schematicsync\listener\events.class
+de\hdg\schematicsync\commands\websocket.class
+de\hdg\schematicsync\commands\websocket$1.class

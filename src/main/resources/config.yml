@@ -1,0 +1,29 @@
+## Config for Schematic Sync
+
+## Login Data for sftp
+serverIP: ""
+serverPort: 22
+username: ""
+password: ""
+
+## This Plugin uses Websockets to tell other servers to download the schematic.
+
+## Own Websocket Server | Please set a Port for the Websocket Server - DO NOT USE THE SAME PORT AS THE MINECRAFT SERVER OR ANY OTHER ALREADY USED PORTS!
+## Every Server, you use this Plugin on, needs its own Port! (unless you are using different machines)
+websocketPort: 8080
+
+
+## Add the Ips and Ports of the other Servers here!
+## You can add as many Servers as you want!
+## This is a list. If you are not familiar with yml, please watch a yml tutorial first.
+## The list should be same explaining.
+
+## Example: ip:port
+## servers:
+##   - "localhost:8080"
+##   - "localhost:8081"
+
+
+
+servers:
+    - ""

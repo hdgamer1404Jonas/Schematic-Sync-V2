@@ -1,0 +1,7 @@
+name: SchematicSync
+version: '1.0.0'
+main: de.hdg.schematicsync.SchematicSync
+api-version: 1.19
+description: Sync WorldEdit schematics across servers
+commands:
+  sync:
